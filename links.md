@@ -57,3 +57,8 @@ Colour pallette makers
 
 A Visual History of Infographics
 - https://www.theguardian.com/news/datablog/gallery/2013/jan/15/historic-infographics-history?picture=402389062
+
+#### Colour related to language
+Perceiving colour through a language lens: a scoping review of experimental work on effects of language on colour perception
+
+https://www.cambridge.org/core/journals/language-and-cognition/article/perceiving-colour-through-a-language-lens-a-scoping-review-of-experimental-work-on-effects-of-language-on-colour-perception/F9B9524BEC2F067FC6D513DFCF5504D0
