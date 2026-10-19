@@ -10,6 +10,9 @@ Toby Dussek
 * 3:00 afternoon break
 * 4:30 end
 
+Course assets here:
+- https://github.com/onionmccabbage/DataVizMonday
+
 - Welcome and introductions
 - Introduction to Data Storytelling
 - superstition -> guess -> data -> information -> knowledge & understanding
