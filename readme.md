@@ -13,6 +13,9 @@ Toby Dussek
 Course assets here:
 - https://github.com/onionmccabbage/DataVizMonday
 
+End of day feedback link:
+- https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=e_W03kuia0Of7lReNqN5xj8zt_gN5ypBgnaPclXpL19UNllFVjBQNzIxNFpMTEdWOEQwVTJITVJGVS4u
+
 - Welcome and introductions
 - Introduction to Data Storytelling
 - superstition -> guess -> data -> information -> knowledge & understanding > actionable

@@ -62,3 +62,7 @@ A Visual History of Infographics
 Perceiving colour through a language lens: a scoping review of experimental work on effects of language on colour perception
 
 https://www.cambridge.org/core/journals/language-and-cognition/article/perceiving-colour-through-a-language-lens-a-scoping-review-of-experimental-work-on-effects-of-language-on-colour-perception/F9B9524BEC2F067FC6D513DFCF5504D0
+
+BBC trust
+- https://www.bbc.co.uk/aboutthebbc/documents/a-bbc-for-the-future.pdf
+
