@@ -4,11 +4,11 @@ Visually convey reliable facts in an engaging and memorable way such that observ
 
 Toby Dussek
 
- 9:30 start 
-11:00 coffee
-12:30 lunch
- 3:00 tea
- 4:30 end
+* 9:15 start 
+* 11:00 morning break
+* 12:30 lunch
+* 3:00 afternoon break
+* 4:30 end
 
 - Welcome and introductions
 - Introduction to Data Storytelling
