@@ -15,7 +15,7 @@ Course assets here:
 
 - Welcome and introductions
 - Introduction to Data Storytelling
-- superstition -> guess -> data -> information -> knowledge & understanding
+- superstition -> guess -> data -> information -> knowledge & understanding > actionable
 - Exploratory and Explanatory Data Analysis
 
 Non-linear story telling: not all eyes will follow the same path
