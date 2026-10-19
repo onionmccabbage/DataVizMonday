@@ -12,4 +12,3 @@ You have 30 minutes to prepare then up to five minutes to present
 
 **A cautious suggestion:** if permitted within your organization, you could use this time to see (given some data and some prompting) what a (free) machine-based tool can generate
 
-Everyone will receive constructive feedback
